@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Hyunjin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjin&theme=default&show_icons=true)
+![Hyunjin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=guswls1419&theme=default&show_icons=true)
   
 </div>  
 
