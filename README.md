@@ -1,4 +1,4 @@
-## <div align="center"> Hi ! I'm Hyun Kim</div>
+## <div align="center"> Hi ! I'm HyunJin Kim</div>
 
 
 
