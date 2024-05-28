@@ -18,7 +18,7 @@
           <img src="https://img.shields.io/badge/Zustand-F36D00?style=for-the-badge&logo=Zustand&logoColor=white">
           <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
           <img src="https://img.shields.io/badge/Recoil-0179f3?style=for-the-badge&logo=Recoil&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
       <img src="https://img.shields.io/badge/IndexDB-000000?style=for-the-badge&logo=IndexDB&logoColor=white">
